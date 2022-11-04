@@ -1,7 +1,7 @@
 ### Oie! Eu sou Matheus Magno 
 
-- 🔭 Hoje trabalho com Desenvolvimento Web (front-end)
-- 🌱 Estudando Context API
+- 🔭 Desenvolvedor Web (front-end)
+
 
 
 <div align="center">
