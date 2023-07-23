@@ -1,8 +1,7 @@
 ### Oie! Eu sou Matheus Magno 
 
 - 🔭 Desenvolvedor Web (front-end)
-- 💻 Atualemnte trabalhando no repositorio "SalesOrdesForTrello" https://github.com/matheusmagnon/SalesOrdesForTrello
-      para acessar o projeto online: https://yannabolos.netlify.app/
+- 💻 Atualemnte trabalhando no repositorio "SalesOrdesForTrello" https://github.com/matheusmagnon/SalesOrdesForTrello para acessar o projeto online: https://yannabolos.netlify.app/
 
 <div align="center">
   <a href="https://github.com/matheusmagnon">
