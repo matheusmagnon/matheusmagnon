@@ -1,7 +1,7 @@
 ### Oie! Eu sou Matheus Magno 
 
 - 🔭 Desenvolvedor Web
-- 💻 Atualmente trabalhando no repositorio [design-system-ui](https://github.com/matheusmagnon/design-system-ui) meu Design System. 
+- 💻 Atualmente trabalhando no repositorio [ignite-call](https://github.com/matheusmagnon/ignite-call), projeto fullstack utilizando Nexts e Nodejs. 
 
 <div align="center">
   <a href="https://github.com/matheusmagnon">
