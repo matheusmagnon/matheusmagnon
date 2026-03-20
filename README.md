@@ -1,7 +1,7 @@
 ### Oie! Eu sou Matheus Magno 
 
 - 🔭 Desenvolvedor Web
-- 💻 Atualmente trabalhando no repositorio [api nestjs](https://github.com/matheusmagnon/api), um projeto feito com Nodejs (NestJS). 
+- 💻 Atualmente trabalhando no repositorio [api nestjs](https://github.com/matheusmagnon/editor). 
 
 <div align="center">
   <a href="https://github.com/matheusmagnon">
